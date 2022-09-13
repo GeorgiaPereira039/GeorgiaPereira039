@@ -51,7 +51,6 @@ ________________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaPereira039&show_icons=true&theme=tokyonight&border_radius=30&layout=compact"/></a>
 
   ##  #
-  <div align="center">
+  
   ![Snake animation](https://github.com/GeorgiaPereira039/GeorgiaPereira039/blob/output/github-contribution-grid-snake.svg)
-</div>
 
