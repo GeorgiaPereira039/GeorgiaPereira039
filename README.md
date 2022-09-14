@@ -19,10 +19,7 @@
 - ❓ Ask me about anything related to and **technologies** and **movies horror**
 - ⚡ Fun fact: **I'm afraid of the dark**
 
-
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
 
 ## 🐱‍🐉 My Skill Set
 
@@ -37,11 +34,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-
 ## 👾 My finished projects ## 
 [MemoryGame](https://georgiapereira039.github.io/MemoriaGame/jogo.html) 🕹 Feel free to test my game on mobile or PC
-
-
 
 # #
 <a href="https://github.com/GeorgiaPereira039/GeorgiaPereira039">
@@ -50,7 +44,4 @@ ________________________________________________________________________________
 <a href="https://github.com/GeorgiaPereira039/GeorgiaPereira039">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaPereira039&show_icons=true&theme=tokyonight&border_radius=30&layout=compact"/></a>
 
-  ##  #
-  
-  ![Snake animation](https://github.com/GeorgiaPereira039/GeorgiaPereira039/blob/output/github-contribution-grid-snake.svg)
-
+# #
